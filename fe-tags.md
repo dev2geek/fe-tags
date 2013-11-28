@@ -2,14 +2,13 @@
 
 ### CSS
 
-* css
+* css, css3
 * css-sprite
-* css3
-* font, fonts, WebFont
+* font, WebFont, web字体
 * icon-font
 * less
 * sass
-* style
+* stylus
 * twitter-bootstrap
 
 
@@ -69,7 +68,6 @@
 
 ### HTML & Web
 
-* button
 * canvas
 * cross-domain, 跨域
 * DOM
