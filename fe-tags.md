@@ -114,11 +114,13 @@
 
 * ab-testing
 * jasmine
+* karma
 * firebug
 * mocha
 * phantomjs
 * selenium
 * web调试, web-debugging
+* jsfiddler,runjs
 
 
 ### 工具
@@ -130,7 +132,7 @@
 * grunt
 * photoshop, ps
 * sublime
-* webstorm
+* webstorm,phpstorm
 * yo, yeoman
 
 
