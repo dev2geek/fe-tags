@@ -2,8 +2,7 @@
 
 ### CSS
 css
-css-animation
-css-position
+css-sprite
 css3
 font, fonts, WebFont
 icon-font
@@ -15,33 +14,54 @@ twitter-bootstrap
 ### Script
 actionscript, as
 ajax
+AMD
 angularjs
 backbone, backbone.js
 bookmarklet
 breeze
+brix
 coffeescript, coffee
+commonjs
 d3.js
 dojo, dijit, dojox
+dropzone.js
+easeljs
 ember.js
+ejs
 express
 extjs, ext
+fabricjs
 flash
+Greasemonkey
 handlebars.js
 jQuery, jq
 jquery-mobile
 jquery-ui
 js/javascript
+jsdoc
+jshint
+jslint
 json
 jsonp
 kissy
 knockout.js
+modernizr
+mustache.js
 node, node.js, nodejs
 prototypejs
+r.js
 requirejs
+sails.js
+seajs
 sencha-touch
+spine.js
 three.js
+uglifyjs
 underscore.js
+userscript
 yui
+zepto
+zombie.js
 
 
 
@@ -77,10 +97,12 @@ xpath
 
 
 ### 浏览器
+blink
 browser, 浏览器
 cross-browser，跨浏览器
 chrome
 chrome-extension, chrome扩展
+chromium
 firefox, ff
 firefox-addon, firefox插件
 IE
@@ -94,6 +116,7 @@ widget
 
 
 ### Web测试/调试
+ab-testing
 jasmine
 firebug
 mocha
@@ -120,14 +143,14 @@ cache
 comet
 cookie
 dns
-GET
 http
+http-connection
 http-header
+http-referer
 https
 http-status-code
 jetty
 nginx
-POST
 session
 spdy
 ssl
@@ -137,14 +160,21 @@ tomcat
 ### 用户体验
 accessibility, 可访问性
 compatibility, 兼容性
+jaws
 UI, user-interface
 
 ### Web安全
+caja
 oauth
+htmlpurifier
+xss
+
 
 
 ### Common
+w3c
 web
+
 
 
 
